@@ -10,3 +10,10 @@ For step by step tutorial, refer [Appium Tutorial](https://www.youtube.com/watch
 
 
 Appium Details or Basics :  https://qavalidation.com/2018/08/appium-test-using-java-in-both-ios-android.html/
+
+Appium Java code base –
+Download code sample from AppiumJava_iOS_Android
+
+Pull the code to you local drive, open the project in Eclipse and run the test.
+
+To run the test – right click on POM.xml | Run As | Maven test
