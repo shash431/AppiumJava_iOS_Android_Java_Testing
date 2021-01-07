@@ -7,3 +7,6 @@ Please refer [AppiumTest_Java_And_iOS](https://github.com/sunilpatro1985/AppiumT
 
 
 For step by step tutorial, refer [Appium Tutorial](https://www.youtube.com/watch?v=2MHxU2PohII&list=PLPO0LFyCaSo1DKak8ZhEJ3NXrj2shNM0N)
+
+
+Appium Details or Basics :  https://qavalidation.com/2018/08/appium-test-using-java-in-both-ios-android.html/
